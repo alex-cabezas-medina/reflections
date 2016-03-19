@@ -23,3 +23,5 @@ because in coding the changes in diferent files are probably related to a single
 How can you use the commands git log and git diff to view the history of files?
 
 with log yi can list all commits and with diff i can see de different between each other
+
+this is a test
